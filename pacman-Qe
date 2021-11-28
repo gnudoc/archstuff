@@ -1,0 +1,40 @@
+#not the whole list, just things I particularly think are useful to remember to get
+base
+base-devel
+calibre
+emacs
+firefox
+git
+grub
+htop
+intel-ucode
+iwd
+kde-applications
+linux
+linux-firmware
+lynx
+mplayer
+nano
+networkmanager
+openssh
+ntfs-3g
+paru
+plasma
+python-pycryptodome
+sddm
+sudo
+tlp
+tmux
+ttf-liberation
+vulkan-intel
+wget
+which
+wireless_tools
+xf86-input-libinput
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-vesa
+xorg-server
+xorg-xbacklight
+#bonny sddm
+#kde plasma dark
