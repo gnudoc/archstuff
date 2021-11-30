@@ -1,9 +1,9 @@
 #not the whole list, just things I particularly think are useful to remember to get
 base
 base-devel
-calibre
+#calibre
 emacs
-firefox
+#firefox
 git
 grub
 htop
@@ -14,11 +14,11 @@ linux
 linux-firmware
 lynx
 mplayer
-nano
+#nano
 networkmanager
 openssh
 ntfs-3g
-paru
+#paru
 plasma
 python-pycryptodome
 sddm
@@ -29,11 +29,11 @@ ttf-liberation
 vulkan-intel
 wget
 which
-wireless_tools
+#wireless_tools
 xf86-input-libinput
-xf86-video-fbdev
+#xf86-video-fbdev
 xf86-video-intel
-xf86-video-vesa
+#xf86-video-vesa
 xorg-server
 xorg-xbacklight
 #bonny sddm
