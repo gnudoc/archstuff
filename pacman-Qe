@@ -6,15 +6,15 @@ efibootmgr
 emacs
 #firefox
 git
-*grub
+#grub
 htop
-*intel-ucode
+intel-ucode
 iwd
 kde-applications
 linux
 linux-firmware
 lynx
-*mplayer
+#mplayer
 #nano
 networkmanager
 openssh
@@ -38,4 +38,5 @@ xf86-video-intel
 xorg-server
 xorg-xbacklight
 #bonny sddm
-#kde plasma dark
+#kde plasma dark 352
+localectl set-x11-keymap gb pc105 dvorak
