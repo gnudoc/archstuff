@@ -2,6 +2,7 @@
 base
 base-devel
 #calibre
+efibootmgr
 emacs
 #firefox
 git
