@@ -8,25 +8,34 @@ emacs
 git
 #grub
 htop
-intel-ucode
-iwd
+#intel-ucode - only if not already on your EFI partition
+#iwd - might as well stick to nm on installation
 kde-applications
 linux
 linux-firmware
+#lxinput - for openbox
+#lxappearance - for openbox
 lynx
 #mplayer
 #nano
 networkmanager
+#nitrogen - for openbox
+#obconf - for openbox
+#openbox
 openssh
 ntfs-3g
 #paru
+#picom - for openbox
 plasma
 #python-pycryptodome
+#rofi - for openbox
 sddm
 sudo
+#tint2 - for openbox
 #tlp
 tmux
 ttf-liberation
+ttf-dejavu
 vulkan-intel
 wget
 which
