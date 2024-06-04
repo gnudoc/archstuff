@@ -1,0 +1,17 @@
+git clone https://aur.archlinux.org/yay-git.git
+mv yay-git Projects/pkgbuilds/
+cd Projects/pkgbuilds/yay-git/
+yay -Syu
+yay -S google-chrome-stable
+yay -S google-chrome
+yay
+yay
+yay
+yay
+yay
+yay
+yay -S java-openjfx
+yay -S java-openjfx
+yay -S bluej
+grep yay .bash_history
+ls .config/yay/

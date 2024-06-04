@@ -1,0 +1,54 @@
+sudo pacman -S -< fonts
+sudo nano /etc/pacman.conf 
+sudo pacman -S -< fonts
+sudo pacman -S -< fonts
+sudo pacman -Rs rofi
+sudo pacman -S hyprland
+sudo pacman -S hyprland
+sudo pacman -S hyprland
+sudo pacman -S waybar
+sudo pacman -S rofi-wayland
+sudo pacman -S kitty
+sudo pacman -S alacritty
+sudo pacman -S dunst
+sudo pacman -S thunar
+sudo pacman -S xdg-desktop-portal-hyprland
+sudo pacman -S qt5-wayland qt6-wayland hyprpaper hyprlock grim slurp
+sudo pacman -S ttf-font-awesome
+sudo pacman -S mpd
+sudo pacman -S aria
+sudo pacman -S ario
+sudo pacman -Ss mp3tag
+sudo pacman -Ss mp3
+sudo pacman -Ss tag
+sudo pacman -S thunar-media-tags-plugin
+sudo pacman -S otf-font-awesome
+sudo pacman -S wireplumber
+sudo pacman -S pipewire-audio pipewire-jack --needed
+sudo pacman -Ss pipewire-
+sudo pacman -Ss pipewire-pulse
+sudo pacman -S pipewire-pulse
+sudo pacman -S wev
+sudo pacman -Ss brightnessctl
+sudo pacman -S brightnessctl
+sudo pacman -Rs ario
+sudo pacman -Rs mpd
+sudo pacman -S mplayer
+sudo pacman -S mplayer
+sudo pacman -S mpg123
+sudo pacman -S mpg321
+sudo pacman -S mpd
+sudo pacman -S mpc
+sudo pacman -Ss ncmpcpp
+sudo pacman -Ss ncmpc
+sudo pacman -S vim
+sudo pacman -Ss fuse
+sudo pacman -S fuse2
+sudo pacman -S fuse2
+sudo pacman -S libreoffice
+sudo pacman -S --needed unzip
+sudo pacman -Qs jdk
+sudo pacman -S jdk-openjdk
+sudo pacman -Ss java
+sudo pacman -Qs java
+grep pacman .bash_history
