@@ -11,6 +11,7 @@ efibootmgr
 emacs-wayland
 #firefox
 git
+greetd-tuigreet # remember to enable greetd and edit the config
 grim
 #grub
 htop
@@ -29,7 +30,7 @@ man-db
 man-pages
 mplayer
 nano
-networkmanager
+networkmanager # remember to enable NetworkManager
 #nitrogen - for openbox
 #obconf - for openbox
 #openbox
